@@ -94,6 +94,16 @@
              * while the Name and Age properties are public and can be accessed without any issues
              */
             #endregion
+            #region P1 Q3
+            /*
+             * Create Class Library project
+             * Make sure the class library is public
+             * Build the Class Library project to generate the DLL file
+             * Add the reference of the Class Library project to the Main project
+             * add the Using namespace of the class Library project to the Main project
+             * 
+             */
+            #endregion
 
         }
     }
