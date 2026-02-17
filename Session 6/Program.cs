@@ -84,6 +84,16 @@
              */
 
             #endregion
+            #region P1 Q2
+            /* Person p = new Person("Ahmed", 25);
+             * p.Id = "12345"; // This will cause a compile error
+             * p.Name = "Ahmed"; // This is fine
+            */
+            /* When we try to access the Id property of the Person class
+             * we will get a compile-time error because it is private and cannot be accessed from outside the class
+             * while the Name and Age properties are public and can be accessed without any issues
+             */
+            #endregion
 
         }
     }
