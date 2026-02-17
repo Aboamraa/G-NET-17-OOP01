@@ -104,7 +104,12 @@
              * 
              */
             #endregion
-
+            #region P1 Q4
+            /*
+             * Class Library is a project that contains reusable code that can be shared across multiple projects
+             * we use it to organize the code and to make it more maintainable and reusable
+             */
+            #endregion
         }
     }
 }
